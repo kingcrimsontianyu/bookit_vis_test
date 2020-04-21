@@ -1,0 +1,40 @@
+
+/* bookView */
+#bookView {
+    align-items: flex-end;
+    display: flex;
+    flex-flow: row nowrap;
+    position: relative;
+    width: 300px;
+}
+
+#bookCover {
+    object-fit: contain;
+    width: 100px;
+}
+
+#bookInfo {
+    margin: 0 0 0 20px;
+}
+
+.infoText {
+    display: block;
+    color: rgba(255, 255, 255, 1);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+
+    margin: 5px 0 0 0;
+}
+
+#bookTitle {
+    border-bottom: 3px solid rgba(255, 255, 255, 1);
+    padding: 0 0 3px 0;
+}
+
+#bookLink {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 12px;
+    margin: 15px 0 0 0;
+}
+

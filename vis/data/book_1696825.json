@@ -1,0 +1,1079 @@
+{
+    "Request": {
+        "authentication": "true",
+        "key": "xIX9Moz1O4Sbz3F3f8fmA",
+        "method": "book_show"
+    },
+    "book": {
+        "id": "1696825",
+        "title": "Where the Stress Falls",
+        "isbn": "0374289174",
+        "isbn13": "9780374289171",
+        "asin": null,
+        "kindle_asin": "B005LVOAGI",
+        "marketplace_id": "ATVPDKIKX0DER",
+        "country_code": "US",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315596396l/1696825._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315596396l/1696825._SY75_.jpg",
+        "publication_year": null,
+        "publication_month": null,
+        "publication_day": null,
+        "publisher": null,
+        "language_code": null,
+        "is_ebook": "false",
+        "description": "Susan Sontag has said that her earliest idea of what a writer should be was \"someone who is interested in everything.\" Thirty-five years after her first collection of essays, the now classic <i>Against Interpretation</i>, our most important essayist has chosen more than forty longer and shorter pieces from the last two decades that illustrate a deeply felt, kaleidoscopic array of interests, passions, observations, and ideas.<br /><br />\"Reading\" offers ardent, freewheeling considerations of talismanic writers from her own private canon, such as Marina Tsvetaeva, Randall Jarrell, Roland Barthes, Machado de Assis, W. G. Sebald, Borges, and Elizabeth Hardwick. \"Seeing\" is a series of luminous and incisive encounters with film, dance, photography, painting, opera, and theatre. And in the final section, \"There and Here,\" Sontag explores some of her own commitments: to the work (and activism) of conscience, to the concreteness of historical understanding, and to the vocation of the writer.<br /><br /><i>Where the Stress Falls</i> records a great American writer's urgent engagement with some of the most significant aesthetic and moral issues of the late twentieth century, and provides a brilliant and clear-eyed appraisal of what is at stake, in this new century, in the survival of that inheritance.",
+        "work": {
+            "id": {
+                "@type": "integer",
+                "#text": "115242"
+            },
+            "books_count": {
+                "@type": "integer",
+                "#text": "24"
+            },
+            "best_book_id": {
+                "@type": "integer",
+                "#text": "52379"
+            },
+            "reviews_count": {
+                "@type": "integer",
+                "#text": "1485"
+            },
+            "ratings_sum": {
+                "@type": "integer",
+                "#text": "1517"
+            },
+            "ratings_count": {
+                "@type": "integer",
+                "#text": "393"
+            },
+            "text_reviews_count": {
+                "@type": "integer",
+                "#text": "36"
+            },
+            "original_publication_year": {
+                "@type": "integer",
+                "#text": "2001"
+            },
+            "original_publication_month": {
+                "@type": "integer",
+                "@nil": "true"
+            },
+            "original_publication_day": {
+                "@type": "integer",
+                "@nil": "true"
+            },
+            "original_title": "Where the Stress Falls",
+            "original_language_id": {
+                "@type": "integer",
+                "@nil": "true"
+            },
+            "media_type": "book",
+            "rating_dist": "5:107|4:163|3:91|2:25|1:7|total:393",
+            "desc_user_id": {
+                "@type": "integer",
+                "#text": "-9"
+            },
+            "default_chaptering_book_id": {
+                "@type": "integer",
+                "@nil": "true"
+            },
+            "default_description_language_code": {
+                "@nil": "true"
+            },
+            "work_uri": "kca://work/amzn1.gr.work.v1.va4uliS5WX1xPGsnnYkd0g"
+        },
+        "average_rating": "3.86",
+        "num_pages": null,
+        "format": null,
+        "edition_information": null,
+        "ratings_count": "26",
+        "text_reviews_count": "4",
+        "url": "https://www.goodreads.com/book/show/1696825.Where_the_Stress_Falls",
+        "link": "https://www.goodreads.com/book/show/1696825.Where_the_Stress_Falls",
+        "authors": {
+            "author": {
+                "id": "7907",
+                "name": "Susan Sontag",
+                "role": null,
+                "image_url": {
+                    "@nophoto": "false",
+                    "#text": "https://images.gr-assets.com/authors/1285821018p5/7907.jpg"
+                },
+                "small_image_url": {
+                    "@nophoto": "false",
+                    "#text": "https://images.gr-assets.com/authors/1285821018p2/7907.jpg"
+                },
+                "link": "https://www.goodreads.com/author/show/7907.Susan_Sontag",
+                "average_rating": "3.96",
+                "ratings_count": "116536",
+                "text_reviews_count": "6269"
+            }
+        },
+        "reviews_widget": "<style>\n  #goodreads-widget {\n    font-family: georgia, serif;\n    padding: 18px 0;\n    width:565px;\n  }\n  #goodreads-widget h1 {\n    font-weight:normal;\n    font-size: 16px;\n    border-bottom: 1px solid #BBB596;\n    margin-bottom: 0;\n  }\n  #goodreads-widget a {\n    text-decoration: none;\n    color:#660;\n  }\n  iframe{\n    background-color: #fff;\n  }\n  #goodreads-widget a:hover { text-decoration: underline; }\n  #goodreads-widget a:active {\n    color:#660;\n  }\n  #gr_footer {\n    width: 100%;\n    border-top: 1px solid #BBB596;\n    text-align: right;\n  }\n  #goodreads-widget .gr_branding{\n    color: #382110;\n    font-size: 11px;\n    text-decoration: none;\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n  }\n</style>\n<div id=\"goodreads-widget\">\n  <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1696825.Where_the_Stress_Falls\">Where the Stress Falls Reviews</a></h1></div>\n  <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374289174&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\" width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n  <div id=\"gr_footer\">\n    <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" href=\"https://www.goodreads.com/book/show/1696825.Where_the_Stress_Falls?utm_medium=api&amp;utm_source=reviews_widget\">Reviews from Goodreads.com</a>\n  </div>\n</div>",
+        "popular_shelves": {
+            "shelf": [
+                {
+                    "@name": "to-read",
+                    "@count": "889"
+                },
+                {
+                    "@name": "essays",
+                    "@count": "55"
+                },
+                {
+                    "@name": "currently-reading",
+                    "@count": "48"
+                },
+                {
+                    "@name": "non-fiction",
+                    "@count": "27"
+                },
+                {
+                    "@name": "nonfiction",
+                    "@count": "12"
+                },
+                {
+                    "@name": "literary-criticism",
+                    "@count": "9"
+                },
+                {
+                    "@name": "criticism",
+                    "@count": "9"
+                },
+                {
+                    "@name": "art",
+                    "@count": "7"
+                },
+                {
+                    "@name": "philosophy",
+                    "@count": "6"
+                },
+                {
+                    "@name": "library",
+                    "@count": "5"
+                },
+                {
+                    "@name": "american",
+                    "@count": "4"
+                },
+                {
+                    "@name": "unfinished",
+                    "@count": "4"
+                },
+                {
+                    "@name": "susan-sontag",
+                    "@count": "3"
+                },
+                {
+                    "@name": "theory",
+                    "@count": "3"
+                },
+                {
+                    "@name": "favorites",
+                    "@count": "3"
+                },
+                {
+                    "@name": "aesthetics",
+                    "@count": "3"
+                },
+                {
+                    "@name": "cultural-studies",
+                    "@count": "3"
+                },
+                {
+                    "@name": "classics",
+                    "@count": "3"
+                },
+                {
+                    "@name": "literature",
+                    "@count": "3"
+                },
+                {
+                    "@name": "lit-crit",
+                    "@count": "3"
+                },
+                {
+                    "@name": "non-fiction-to-read",
+                    "@count": "2"
+                },
+                {
+                    "@name": "memoir",
+                    "@count": "2"
+                },
+                {
+                    "@name": "personal-library",
+                    "@count": "2"
+                },
+                {
+                    "@name": "read-2016",
+                    "@count": "2"
+                },
+                {
+                    "@name": "kindle",
+                    "@count": "2"
+                },
+                {
+                    "@name": "wish-list",
+                    "@count": "2"
+                },
+                {
+                    "@name": "não-ficção",
+                    "@count": "2"
+                },
+                {
+                    "@name": "writing",
+                    "@count": "2"
+                },
+                {
+                    "@name": "owned",
+                    "@count": "2"
+                },
+                {
+                    "@name": "hitchens",
+                    "@count": "2"
+                },
+                {
+                    "@name": "my-library",
+                    "@count": "2"
+                },
+                {
+                    "@name": "feminism",
+                    "@count": "2"
+                },
+                {
+                    "@name": "literary",
+                    "@count": "2"
+                },
+                {
+                    "@name": "essay-collections",
+                    "@count": "2"
+                },
+                {
+                    "@name": "essay",
+                    "@count": "2"
+                },
+                {
+                    "@name": "literatura",
+                    "@count": "1"
+                },
+                {
+                    "@name": "buscar",
+                    "@count": "1"
+                },
+                {
+                    "@name": "my-own-personal-library",
+                    "@count": "1"
+                },
+                {
+                    "@name": "short-reads",
+                    "@count": "1"
+                },
+                {
+                    "@name": "intellectual",
+                    "@count": "1"
+                },
+                {
+                    "@name": "20th-century",
+                    "@count": "1"
+                },
+                {
+                    "@name": "za-o-lit-jewish",
+                    "@count": "1"
+                },
+                {
+                    "@name": "unread",
+                    "@count": "1"
+                },
+                {
+                    "@name": "salemwitchtrials-bestof2019",
+                    "@count": "1"
+                },
+                {
+                    "@name": "the-list",
+                    "@count": "1"
+                },
+                {
+                    "@name": "physical-tbr",
+                    "@count": "1"
+                },
+                {
+                    "@name": "i-own",
+                    "@count": "1"
+                },
+                {
+                    "@name": "bard",
+                    "@count": "1"
+                },
+                {
+                    "@name": "audio-tbr",
+                    "@count": "1"
+                },
+                {
+                    "@name": "escritoras",
+                    "@count": "1"
+                },
+                {
+                    "@name": "not-finished",
+                    "@count": "1"
+                },
+                {
+                    "@name": "usa-studies",
+                    "@count": "1"
+                },
+                {
+                    "@name": "maybe",
+                    "@count": "1"
+                },
+                {
+                    "@name": "audio-wanted",
+                    "@count": "1"
+                },
+                {
+                    "@name": "zo-y-a",
+                    "@count": "1"
+                },
+                {
+                    "@name": "englischsprachige-literatur",
+                    "@count": "1"
+                },
+                {
+                    "@name": "penguin-modern-classics",
+                    "@count": "1"
+                },
+                {
+                    "@name": "hitch",
+                    "@count": "1"
+                },
+                {
+                    "@name": "inter",
+                    "@count": "1"
+                },
+                {
+                    "@name": "for-theatre",
+                    "@count": "1"
+                },
+                {
+                    "@name": "to-listen",
+                    "@count": "1"
+                },
+                {
+                    "@name": "remolino-sin-terminar",
+                    "@count": "1"
+                },
+                {
+                    "@name": "mfa-201906-unread",
+                    "@count": "1"
+                },
+                {
+                    "@name": "mfa",
+                    "@count": "1"
+                },
+                {
+                    "@name": "books-i-started-but-didnt-finish",
+                    "@count": "1"
+                },
+                {
+                    "@name": "miscellaneous-non-fiction",
+                    "@count": "1"
+                },
+                {
+                    "@name": "a",
+                    "@count": "1"
+                },
+                {
+                    "@name": "physical-books",
+                    "@count": "1"
+                },
+                {
+                    "@name": "want-to-read_library-borrow",
+                    "@count": "1"
+                },
+                {
+                    "@name": "to-kindle",
+                    "@count": "1"
+                },
+                {
+                    "@name": "united-states",
+                    "@count": "1"
+                },
+                {
+                    "@name": "art-cinema-photography",
+                    "@count": "1"
+                },
+                {
+                    "@name": "didn-t-get-to-finish-them",
+                    "@count": "1"
+                },
+                {
+                    "@name": "books-about-writers",
+                    "@count": "1"
+                },
+                {
+                    "@name": "about-autobiographical-writing",
+                    "@count": "1"
+                },
+                {
+                    "@name": "purge-2",
+                    "@count": "1"
+                },
+                {
+                    "@name": "zp-2000s-a",
+                    "@count": "1"
+                },
+                {
+                    "@name": "purchased-books",
+                    "@count": "1"
+                },
+                {
+                    "@name": "novels",
+                    "@count": "1"
+                },
+                {
+                    "@name": "stress",
+                    "@count": "1"
+                },
+                {
+                    "@name": "canon",
+                    "@count": "1"
+                },
+                {
+                    "@name": "brain-pickings",
+                    "@count": "1"
+                },
+                {
+                    "@name": "em0-malek",
+                    "@count": "1"
+                },
+                {
+                    "@name": "scribd-hoopla-rb-etc-audiobook",
+                    "@count": "1"
+                },
+                {
+                    "@name": "gave-up",
+                    "@count": "1"
+                },
+                {
+                    "@name": "feqlbhmrd",
+                    "@count": "1"
+                },
+                {
+                    "@name": "sontag",
+                    "@count": "1"
+                },
+                {
+                    "@name": "have",
+                    "@count": "1"
+                },
+                {
+                    "@name": "to-get",
+                    "@count": "1"
+                },
+                {
+                    "@name": "favrit",
+                    "@count": "1"
+                },
+                {
+                    "@name": "essays-n-crit",
+                    "@count": "1"
+                },
+                {
+                    "@name": "zzz-picador",
+                    "@count": "1"
+                },
+                {
+                    "@name": "zza-blackstone-audio",
+                    "@count": "1"
+                },
+                {
+                    "@name": "zph-n-a-om",
+                    "@count": "1"
+                },
+                {
+                    "@name": "pub-2000s",
+                    "@count": "1"
+                },
+                {
+                    "@name": "books-about-books",
+                    "@count": "1"
+                },
+                {
+                    "@name": "audiobook",
+                    "@count": "1"
+                },
+                {
+                    "@name": "non-fiction-popular",
+                    "@count": "1"
+                },
+                {
+                    "@name": "nf-tr-essays-journalism-dno",
+                    "@count": "1"
+                },
+                {
+                    "@name": "bibliophile",
+                    "@count": "1"
+                }
+            ]
+        },
+        "book_links": {
+            "book_link": {
+                "id": "8",
+                "name": "Libraries",
+                "link": "https://www.goodreads.com/book_link/follow/8"
+            }
+        },
+        "buy_links": {
+            "buy_link": [
+                {
+                    "id": "1",
+                    "name": "Amazon",
+                    "link": "https://www.goodreads.com/book_link/follow/1"
+                },
+                {
+                    "id": "10",
+                    "name": "Audible",
+                    "link": "https://www.goodreads.com/book_link/follow/10"
+                },
+                {
+                    "id": "3",
+                    "name": "Barnes & Noble",
+                    "link": "https://www.goodreads.com/book_link/follow/3"
+                },
+                {
+                    "id": "1027",
+                    "name": "Walmart eBooks",
+                    "link": "https://www.goodreads.com/book_link/follow/1027"
+                },
+                {
+                    "id": "2102",
+                    "name": "Apple Books",
+                    "link": "https://www.goodreads.com/book_link/follow/2102"
+                },
+                {
+                    "id": "8036",
+                    "name": "Google Play",
+                    "link": "https://www.goodreads.com/book_link/follow/8036"
+                },
+                {
+                    "id": "4",
+                    "name": "Abebooks",
+                    "link": "https://www.goodreads.com/book_link/follow/4"
+                },
+                {
+                    "id": "882",
+                    "name": "Book Depository",
+                    "link": "https://www.goodreads.com/book_link/follow/882"
+                },
+                {
+                    "id": "5",
+                    "name": "Alibris",
+                    "link": "https://www.goodreads.com/book_link/follow/5"
+                },
+                {
+                    "id": "9",
+                    "name": "Indigo",
+                    "link": "https://www.goodreads.com/book_link/follow/9"
+                },
+                {
+                    "id": "107",
+                    "name": "Better World Books",
+                    "link": "https://www.goodreads.com/book_link/follow/107"
+                },
+                {
+                    "id": "7",
+                    "name": "IndieBound",
+                    "link": "https://www.goodreads.com/book_link/follow/7"
+                }
+            ]
+        },
+        "series_works": null,
+        "similar_books": {
+            "book": [
+                {
+                    "id": "762390",
+                    "title": "The Hour of the Star",
+                    "title_without_series": "The Hour of the Star",
+                    "link": "https://www.goodreads.com/book/show/762390.The_Hour_of_the_Star",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325790532l/762390._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325790532l/762390._SX98_.jpg",
+                    "num_pages": "96",
+                    "work": {
+                        "id": "3496197"
+                    },
+                    "isbn": "0811211908",
+                    "isbn13": "9780811211901",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1992",
+                    "publication_month": "2",
+                    "publication_day": "17",
+                    "authors": {
+                        "author": {
+                            "id": "86098",
+                            "name": "Clarice Lispector",
+                            "link": "https://www.goodreads.com/author/show/86098.Clarice_Lispector"
+                        }
+                    }
+                },
+                {
+                    "id": "153590",
+                    "title": "Playback (Philip Marlowe, #7)",
+                    "title_without_series": "Playback",
+                    "link": "https://www.goodreads.com/book/show/153590.Playback",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388450886l/153590._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388450886l/153590._SX98_.jpg",
+                    "num_pages": "166",
+                    "work": {
+                        "id": "2504821"
+                    },
+                    "isbn": "0394757661",
+                    "isbn13": "9780394757667",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1988",
+                    "publication_month": "8",
+                    "publication_day": "12",
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "11318",
+                    "title": "Trouble Is My Business",
+                    "title_without_series": "Trouble Is My Business",
+                    "link": "https://www.goodreads.com/book/show/11318.Trouble_Is_My_Business",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388189902l/11318._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388189902l/11318._SX98_.jpg",
+                    "num_pages": "224",
+                    "work": {
+                        "id": "2024704"
+                    },
+                    "isbn": "0394757645",
+                    "isbn13": "9780394757643",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1988",
+                    "publication_month": "8",
+                    "publication_day": "12",
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "852401",
+                    "title": "The Little Sister (Philip Marlowe, #5)",
+                    "title_without_series": "The Little Sister",
+                    "link": "https://www.goodreads.com/book/show/852401.The_Little_Sister",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393854268l/852401._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393854268l/852401._SX98_.jpg",
+                    "num_pages": "250",
+                    "work": {
+                        "id": "2494651"
+                    },
+                    "isbn": "039475767X",
+                    "isbn13": "9780394757674",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1988",
+                    "publication_month": "8",
+                    "publication_day": "12",
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "124184",
+                    "title": "Raymond Chandler Speaking",
+                    "title_without_series": "Raymond Chandler Speaking",
+                    "link": "https://www.goodreads.com/book/show/124184.Raymond_Chandler_Speaking",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "num_pages": "275",
+                    "work": {
+                        "id": "119587"
+                    },
+                    "isbn": "0520208358",
+                    "isbn13": "9780520208353",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1997",
+                    "publication_month": "4",
+                    "publication_day": "30",
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "4332217",
+                    "title": "Blackmailers Don't Shoot (Folio Society)",
+                    "title_without_series": "Blackmailers Don't Shoot",
+                    "link": "https://www.goodreads.com/book/show/4332217-blackmailers-don-t-shoot",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "num_pages": "528",
+                    "work": {
+                        "id": "4380068"
+                    },
+                    "isbn": null,
+                    "isbn13": null,
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "2007",
+                    "publication_month": null,
+                    "publication_day": null,
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "14848936",
+                    "title": "Killer in the Rain",
+                    "title_without_series": "Killer in the Rain",
+                    "link": "https://www.goodreads.com/book/show/14848936-killer-in-the-rain",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356450224l/14848936._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356450224l/14848936._SY160_.jpg",
+                    "num_pages": "584",
+                    "work": {
+                        "id": "808606"
+                    },
+                    "isbn": null,
+                    "isbn13": null,
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "2011",
+                    "publication_month": null,
+                    "publication_day": null,
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "2049",
+                    "title": "The High Window (Philip Marlowe, #3)",
+                    "title_without_series": "The High Window",
+                    "link": "https://www.goodreads.com/book/show/2049.The_High_Window",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466754245l/2049._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466754245l/2049._SX98_.jpg",
+                    "num_pages": "265",
+                    "work": {
+                        "id": "1616"
+                    },
+                    "isbn": "0394758269",
+                    "isbn13": "9780394758268",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1992",
+                    "publication_month": "8",
+                    "publication_day": "12",
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "1343251",
+                    "title": "Pearls are a Nuisance",
+                    "title_without_series": "Pearls are a Nuisance",
+                    "link": "https://www.goodreads.com/book/show/1343251.Pearls_are_a_Nuisance",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "num_pages": "199",
+                    "work": {
+                        "id": "1933138"
+                    },
+                    "isbn": "0140108998",
+                    "isbn13": "9780140108996",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1989",
+                    "publication_month": null,
+                    "publication_day": null,
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "1902140",
+                    "title": "Smart-Aleck Kill",
+                    "title_without_series": "Smart-Aleck Kill",
+                    "link": "https://www.goodreads.com/book/show/1902140.Smart_Aleck_Kill",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483532761l/1902140._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483532761l/1902140._SX98_.jpg",
+                    "num_pages": "188",
+                    "work": {
+                        "id": "1933140"
+                    },
+                    "isbn": "014010898X",
+                    "isbn13": "9780140108989",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1964",
+                    "publication_month": null,
+                    "publication_day": null,
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "48557815",
+                    "title": "A Warning",
+                    "title_without_series": "A Warning",
+                    "link": "https://www.goodreads.com/book/show/48557815-a-warning",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "num_pages": "259",
+                    "work": {
+                        "id": "73884016"
+                    },
+                    "isbn": null,
+                    "isbn13": null,
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": null,
+                    "publication_month": null,
+                    "publication_day": null,
+                    "authors": {
+                        "author": {
+                            "id": "5158478",
+                            "name": "Anonymous",
+                            "link": "https://www.goodreads.com/author/show/5158478.Anonymous"
+                        }
+                    }
+                },
+                {
+                    "id": "6763725",
+                    "title": "Capitalist Realism: Is There No Alternative?",
+                    "title_without_series": "Capitalist Realism: Is There No Alternative?",
+                    "link": "https://www.goodreads.com/book/show/6763725-capitalist-realism",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426633608l/6763725._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426633608l/6763725._SX98_.jpg",
+                    "num_pages": "81",
+                    "work": {
+                        "id": "6961573"
+                    },
+                    "isbn": "1846943175",
+                    "isbn13": "9781846943171",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "2009",
+                    "publication_month": "12",
+                    "publication_day": "16",
+                    "authors": {
+                        "author": {
+                            "id": "956173",
+                            "name": "Mark Fisher",
+                            "link": "https://www.goodreads.com/author/show/956173.Mark_Fisher"
+                        }
+                    }
+                },
+                {
+                    "id": "2050",
+                    "title": "Farewell, My Lovely (Philip Marlowe, #2)",
+                    "title_without_series": "Farewell, My Lovely",
+                    "link": "https://www.goodreads.com/book/show/2050.Farewell_My_Lovely",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465778099l/2050._SY75_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465778099l/2050._SX98_.jpg",
+                    "num_pages": "292",
+                    "work": {
+                        "id": "1263111"
+                    },
+                    "isbn": "0394758277",
+                    "isbn13": "9780394758275",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1992",
+                    "publication_month": "8",
+                    "publication_day": null,
+                    "authors": {
+                        "author": {
+                            "id": "1377",
+                            "name": "Raymond Chandler",
+                            "link": "https://www.goodreads.com/author/show/1377.Raymond_Chandler"
+                        }
+                    }
+                },
+                {
+                    "id": "66933",
+                    "title": "The Wretched of the Earth",
+                    "title_without_series": "The Wretched of the Earth",
+                    "link": "https://www.goodreads.com/book/show/66933.The_Wretched_of_the_Earth",
+                    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545547240l/66933._SX50_.jpg",
+                    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545547240l/66933._SX98_.jpg",
+                    "num_pages": "320",
+                    "work": {
+                        "id": "865773"
+                    },
+                    "isbn": "0802141323",
+                    "isbn13": "9780802141323",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "2005",
+                    "publication_month": null,
+                    "publication_day": null,
+                    "authors": {
+                        "author": {
+                            "id": "37728",
+                            "name": "Frantz Fanon",
+                            "link": "https://www.goodreads.com/author/show/37728.Frantz_Fanon"
+                        }
+                    }
+                },
+                {
+                    "id": "94654",
+                    "title": "Masochism: Coldness and Cruelty & Venus in Furs",
+                    "title_without_series": "Masochism: Coldness and Cruelty & Venus in Furs",
+                    "link": "https://www.goodreads.com/book/show/94654.Masochism",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "num_pages": "296",
+                    "work": {
+                        "id": "783324"
+                    },
+                    "isbn": "0942299558",
+                    "isbn13": "9780942299557",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1991",
+                    "publication_month": "3",
+                    "publication_day": "19",
+                    "authors": {
+                        "author": {
+                            "id": "13009",
+                            "name": "Gilles Deleuze",
+                            "link": "https://www.goodreads.com/author/show/13009.Gilles_Deleuze"
+                        }
+                    }
+                },
+                {
+                    "id": "25510906",
+                    "title": "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins",
+                    "title_without_series": "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins",
+                    "link": "https://www.goodreads.com/book/show/25510906-the-mushroom-at-the-end-of-the-world",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "num_pages": "331",
+                    "work": {
+                        "id": "45290631"
+                    },
+                    "isbn": "0691162751",
+                    "isbn13": "9780691162751",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "2015",
+                    "publication_month": "9",
+                    "publication_day": "29",
+                    "authors": {
+                        "author": {
+                            "id": "119987",
+                            "name": "Anna Lowenhaupt Tsing",
+                            "link": "https://www.goodreads.com/author/show/119987.Anna_Lowenhaupt_Tsing"
+                        }
+                    }
+                },
+                {
+                    "id": "730376",
+                    "title": "Vertigo",
+                    "title_without_series": "Vertigo",
+                    "link": "https://www.goodreads.com/book/show/730376.Vertigo",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "num_pages": "263",
+                    "work": {
+                        "id": "17952092"
+                    },
+                    "isbn": "0811214850",
+                    "isbn13": "9780811214858",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "2001",
+                    "publication_month": "10",
+                    "publication_day": "18",
+                    "authors": {
+                        "author": {
+                            "id": "6580622",
+                            "name": "W.G. Sebald",
+                            "link": "https://www.goodreads.com/author/show/6580622.W_G_Sebald"
+                        }
+                    }
+                },
+                {
+                    "id": "80449",
+                    "title": "On the Genealogy of Morals",
+                    "title_without_series": "On the Genealogy of Morals",
+                    "link": "https://www.goodreads.com/book/show/80449.On_the_Genealogy_of_Morals",
+                    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                    "num_pages": "208",
+                    "work": {
+                        "id": "13751223"
+                    },
+                    "isbn": "019283617X",
+                    "isbn13": "9780192836175",
+                    "average_rating": "3.86",
+                    "ratings_count": "393",
+                    "publication_year": "1999",
+                    "publication_month": "2",
+                    "publication_day": "25",
+                    "authors": {
+                        "author": {
+                            "id": "1938",
+                            "name": "Friedrich Nietzsche",
+                            "link": "https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "add_ons": {
+        "cover": {
+            "colors": [
+                "#128143",
+                "#87ad47",
+                "#e26419",
+                "#1d382c"
+            ],
+            "weights": [
+                0.33,
+                0.19,
+                0.1,
+                0.38
+            ]
+        }
+    }
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Book It Up</title>
+
+    <!-- Styles -->
+    <link href="css/reset.css" rel="stylesheet">
+    <link href="css/header.css" rel="stylesheet">
+    <link href="css/index.css" rel="stylesheet">
+    <link href="css/radial.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:100,300,400,500,700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header id="topBar">
+    <div id="lSide" class="side">
+        <h1>Book It Up</h1>
+    </div>
+    <div id="rSide" class="side">
+        <select id="sortSelect" onchange="sortIt(this)">
+            <option value="abc">abc</option>
+            <option value="123">123</option>
+        </select>
+    </div>
+</header>
+<div id="slide1" class="slide">
+    <div id="mobileScreen">
+        <h1 class="mobileLegend">fig.ZonaK.</h1>
+        <div id="radialZonaK"></div>
+        <h1 class="mobileLegend">fig.JeffB.</h1>
+        <div id="radialJeffB"></div>
+        <h1 class="mobileLegend">fig.NingC.</h1>
+        <div id="radialNingC"></div>
+        <h1 class="mobileLegend">fig.JaredJ.</h1>
+        <div id="radialJaredJ"></div>
+    </div>
+</div>
+
+<!-- Scripts -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="js/radial.js"></script>
+<script src="js/main_jj.js"></script>
+</body>
+</html>
